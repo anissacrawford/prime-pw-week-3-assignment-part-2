@@ -36,6 +36,13 @@ for (let i=2; i<11; i++){
   }
 }
 
+console.log('OR');
+
+  for (let i=-1; i<11; i++){
+    if(i += 1){
+      console.log(i);
+    }
+}
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
 
 console.log('STRETCH: countdown from 5 to 0');
